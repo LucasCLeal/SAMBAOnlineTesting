@@ -1,0 +1,1625 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 09:46:32 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:14 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:14 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:15 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:15 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:16 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:16 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:16 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:17 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:17 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:49:17 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:50 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:51 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:51 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:51 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:52 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:52 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:52 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:53 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:53 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 11:58:53 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:13 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:14 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:14 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:15 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:15 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:16 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:16 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:17 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:17 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:08:18 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:55 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:55 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:55 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:56 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:56 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:57 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:57 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:57 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:58 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:15:58 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:57 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:57 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:58 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:58 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:58 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:59 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:59 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:23:59 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:24:00 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:24:00 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:23 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:24 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:24 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:24 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:25 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:25 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:25 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:26 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:26 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:31:26 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:19 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:20 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:23 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:23 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:24 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 12:39:24 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:30 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:30 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:31 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:31 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:32 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:32 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:32 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:33 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:33 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 13:59:34 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:19 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:20 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:20 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:20 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:21 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:22 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:22 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:12:22 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:44 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:45 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:45 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:45 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:45 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:46 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:47 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:47 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:47 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 14:30:47 BRT 2018
+Model used for test generation: m30-32-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+synchronize@hypercache : SUCCESS
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : SUCCESS

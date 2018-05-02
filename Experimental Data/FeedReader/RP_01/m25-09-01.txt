@@ -1,0 +1,808 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:52:06 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:51 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:52 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:53 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:54 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:55 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:56 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:57 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:57 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:57 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:57 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:57 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:57:57 BRT 2018
+Model used for test generation: m25-09-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : SUCCESS

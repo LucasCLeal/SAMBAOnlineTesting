@@ -1,0 +1,808 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:52:07 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:11 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:12 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:13 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:14 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:15 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 09 04:59:16 BRT 2018
+Model used for test generation: m30-05-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : SUCCESS

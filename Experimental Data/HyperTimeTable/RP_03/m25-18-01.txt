@@ -1,0 +1,27 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:30:24 BRT 2018
+Model used for test generation: m25-18-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+getHyperEvents@hyperreader : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:32:24 BRT 2018
+Model used for test generation: m25-18-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+getHyperEvents@hyperreader : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:32:24 BRT 2018
+Model used for test generation: m25-18-01.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+getHyperEvents@hyperreader : FAIL

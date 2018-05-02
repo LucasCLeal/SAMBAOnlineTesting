@@ -1,0 +1,668 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 21:44:56 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:17:49 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:17:49 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:17:50 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:17:51 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:17:52 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:56:55 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:56:55 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:56:56 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:56:57 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 22:56:57 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:12:34 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:12:34 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:12:35 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:12:35 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:12:36 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:28:40 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:28:40 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:28:40 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:28:41 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Thu Mar 15 23:28:42 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:03:04 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:03:04 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:03:04 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:03:04 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:03:05 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:05:05 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:05:05 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:05:05 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:05:05 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:05:05 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:17:07 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:17:07 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:17:07 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:17:08 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:17:09 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:30:10 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:30:10 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:30:11 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:30:12 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Mar 16 10:30:12 BRT 2018
+Model used for test generation: m30-12-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+get@key_registry : SUCCESS
+getFolksonomyContent@flickr : SUCCESS
+shuffle@helper : SUCCESS
+merge@helper : SUCCESS
+truncate@helper : SUCCESS
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : SUCCESS

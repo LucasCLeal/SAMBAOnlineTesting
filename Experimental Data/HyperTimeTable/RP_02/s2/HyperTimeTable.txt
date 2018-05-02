@@ -1,0 +1,33 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 04:04:32 BRT 2018
+Model used for test generation: HyperTimeTable.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 04:04:34 BRT 2018
+Model used for test generation: HyperTimeTable.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 04:04:36 BRT 2018
+Model used for test generation: HyperTimeTable.json
+Model creation date: 03/15/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+isValid@hypercache : SUCCESS
+get@hypercache : SUCCESS
+getHyperEvents@hyperreader : SUCCESS
+synchronize@hypercache : FAIL

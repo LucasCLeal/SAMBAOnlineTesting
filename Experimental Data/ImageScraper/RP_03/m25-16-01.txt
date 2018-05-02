@@ -1,0 +1,27 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:15:11 BRT 2018
+Model used for test generation: m25-16-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+Test case generation ABORTED (Check Server log for information)
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:20:34 BRT 2018
+Model used for test generation: m25-16-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+Test case generation ABORTED (Check Server log for information)
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:23:02 BRT 2018
+Model used for test generation: m25-16-01.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+Test case generation ABORTED (Check Server log for information)

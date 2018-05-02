@@ -1,0 +1,24 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 03:40:31 BRT 2018
+Model used for test generation: FeedReader.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 03:40:58 BRT 2018
+Model used for test generation: FeedReader.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 03:41:14 BRT 2018
+Model used for test generation: FeedReader.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getURL@feedRegistry : FAIL

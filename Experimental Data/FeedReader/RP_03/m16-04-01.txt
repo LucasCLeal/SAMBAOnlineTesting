@@ -1,0 +1,24 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:26:47 BRT 2018
+Model used for test generation: m16-04-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:27:54 BRT 2018
+Model used for test generation: m16-04-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Tue Mar 20 05:27:54 BRT 2018
+Model used for test generation: m16-04-01.json
+Model creation date: 03/09/2018
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+read@rssReader : FAIL

@@ -1,0 +1,27 @@
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 04:48:39 BRT 2018
+Model used for test generation: ImageScraper.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 04:48:40 BRT 2018
+Model used for test generation: ImageScraper.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : FAIL
+
+
+___TEST EXECUTION INFO___ Test execution date and time: Fri Apr 06 04:48:42 BRT 2018
+Model used for test generation: ImageScraper.json
+Model creation date: 09/01/2017
+Path generator: random(edge_coverage(100))
+___TEST CASE GENERATED___
+getFolksonomyContent@picasa : SUCCESS
+shuffle@helper : FAIL
