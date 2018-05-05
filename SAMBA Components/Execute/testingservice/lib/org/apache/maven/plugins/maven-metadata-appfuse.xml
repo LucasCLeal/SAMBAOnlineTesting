@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <plugins>
+    <plugin>
+      <name>Maven EMMA plugin</name>
+      <prefix>emma</prefix>
+      <artifactId>maven-emma-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

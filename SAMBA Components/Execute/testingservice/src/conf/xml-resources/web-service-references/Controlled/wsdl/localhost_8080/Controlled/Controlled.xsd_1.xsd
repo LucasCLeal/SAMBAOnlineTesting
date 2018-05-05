@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.1.3.3-hudson-757-SNAPSHOT. --><xs:schema xmlns:tns="http://ws.controlled/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://ws.controlled/">
+
+<xs:element name="getListOfServiceDiscovered" type="tns:getListOfServiceDiscovered"></xs:element>
+
+<xs:element name="getListOfServiceDiscoveredResponse" type="tns:getListOfServiceDiscoveredResponse"></xs:element>
+
+<xs:element name="startControlledService" type="tns:startControlledService"></xs:element>
+
+<xs:element name="startControlledServiceResponse" type="tns:startControlledServiceResponse"></xs:element>
+
+<xs:element name="stop" type="tns:stop"></xs:element>
+
+<xs:element name="stopVirtualization" type="tns:stopVirtualization"></xs:element>
+
+<xs:element name="stopVirtualizationResponse" type="tns:stopVirtualizationResponse"></xs:element>
+
+<xs:element name="virtualizeForTesting" type="tns:virtualizeForTesting"></xs:element>
+
+<xs:element name="virtualizeForTestingResponse" type="tns:virtualizeForTestingResponse"></xs:element>
+
+<xs:complexType name="getListOfServiceDiscovered">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getListOfServiceDiscoveredResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:anyType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="virtualizeForTesting">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="virtualizeForTestingResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startControlledService">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startControlledServiceResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="stopVirtualization">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="stopVirtualizationResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:boolean" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="stop">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+</xs:schema>

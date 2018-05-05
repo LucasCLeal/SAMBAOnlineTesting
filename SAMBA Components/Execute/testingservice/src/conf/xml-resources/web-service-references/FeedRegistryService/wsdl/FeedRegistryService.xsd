@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.1.3.1-hudson-417-SNAPSHOT. -->
+<xs:schema xmlns:tns="http://registry.technical.jSeduite.modalis.i3s.unice.fr/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://registry.technical.jSeduite.modalis.i3s.unice.fr/">
+  <xs:element name="FeedRegistryException" type="tns:FeedRegistryException"/>
+  <xs:element name="getCategories" type="tns:getCategories"/>
+  <xs:element name="getCategoriesResponse" type="tns:getCategoriesResponse"/>
+  <xs:element name="getNicknames" type="tns:getNicknames"/>
+  <xs:element name="getNicknamesResponse" type="tns:getNicknamesResponse"/>
+  <xs:element name="getURL" type="tns:getURL"/>
+  <xs:element name="getURLResponse" type="tns:getURLResponse"/>
+  <xs:complexType name="getCategories">
+    <xs:sequence/>
+  </xs:complexType>
+  <xs:complexType name="getCategoriesResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FeedRegistryException">
+    <xs:sequence>
+      <xs:element name="message" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getNicknames">
+    <xs:sequence>
+      <xs:element name="category" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getNicknamesResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getURL">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getURLResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:anyURI" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

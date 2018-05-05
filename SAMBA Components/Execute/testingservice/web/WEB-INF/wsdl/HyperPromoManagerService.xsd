@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.1.3.1-hudson-417-SNAPSHOT. -->
+<xs:schema xmlns:tns="http://modalis.i3s.unice.fr/jSeduite/ws/technical/hypermachin" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://modalis.i3s.unice.fr/jSeduite/ws/technical/hypermachin">
+  <xs:include schemaLocation="../Partners/HyperMachinService.xsd" />
+  <xs:element name="get" type="tns:get"/>
+  <xs:element name="getAll" type="tns:getAll"/>
+  <xs:element name="getAllResponse" type="tns:getAllResponse"/>
+  <xs:element name="getResponse" type="tns:getResponse"/>
+  <xs:element name="isValid" type="tns:isValid"/>
+  <xs:element name="isValidResponse" type="tns:isValidResponse"/>
+  <xs:element name="synchronize" type="tns:synchronize"/>
+  <xs:element name="waitStillSynchronize" type="tns:waitStillSynchronize"/>
+  <xs:element name="waitStillSynchronizeResponse" type="tns:waitStillSynchronizeResponse"/>
+  <xs:complexType name="synchronize">
+    <xs:sequence>
+      <xs:element name="promoId" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="waitStillSynchronize">
+    <xs:sequence>
+      <xs:element name="promoId" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="waitStillSynchronizeResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:boolean"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getAll">
+    <xs:sequence/>
+  </xs:complexType>
+  <xs:complexType name="getAllResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="get">
+    <xs:sequence>
+      <xs:element name="promoId" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getResponse">
+    <xs:sequence>
+      <xs:element name="return" type="tns:hyperPromo" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="isValid">
+    <xs:sequence>
+      <xs:element name="promoId" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="isValidResponse">
+    <xs:sequence>
+      <xs:element name="return" type="tns:hyperCacheStatus" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="hyperCacheStatus">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="VALID"/>
+      <xs:enumeration value="OLD"/>
+      <xs:enumeration value="SYNC"/>
+      <xs:enumeration value="EMPTY"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

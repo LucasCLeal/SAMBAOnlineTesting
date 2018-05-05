@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.1.3.1-hudson-417-SNAPSHOT. -->
+<xs:schema xmlns:tns="http://picasa.image.technical.jSeduite.modalis.i3s.unice.fr/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://picasa.image.technical.jSeduite.modalis.i3s.unice.fr/">
+  <xs:element name="PicasaWrapperException" type="tns:PicasaWrapperException"/>
+  <xs:element name="getAlbumContent" type="tns:getAlbumContent"/>
+  <xs:element name="getAlbumContentResponse" type="tns:getAlbumContentResponse"/>
+  <xs:element name="getFolksonomyContent" type="tns:getFolksonomyContent"/>
+  <xs:element name="getFolksonomyContentResponse" type="tns:getFolksonomyContentResponse"/>
+  <xs:complexType name="getFolksonomyContent">
+    <xs:sequence>
+      <xs:element name="query" type="xs:string" minOccurs="0"/>
+      <xs:element name="count" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getFolksonomyContentResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:anyURI" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="PicasaWrapperException">
+    <xs:sequence>
+      <xs:element name="message" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getAlbumContent">
+    <xs:sequence>
+      <xs:element name="user" type="xs:string" minOccurs="0"/>
+      <xs:element name="album" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getAlbumContentResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:anyURI" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

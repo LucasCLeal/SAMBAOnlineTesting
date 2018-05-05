@@ -1,0 +1,33 @@
+2013-06-06 12:31:45,276 WARN  [DefaultSoapUICore] Missing folder [/home/andrea/NetBeansProjects/testingservice/ext] for external libraries
+2013-06-06 12:31:45,289 INFO  [DefaultSoapUICore] Creating new settings at [/home/andrea/NetBeansProjects/testingservice/soapui-settings.xml]
+2013-06-06 12:31:47,166 INFO  [SchemaUtils] Added default schema from file:/home/andrea/NetBeansProjects/testingservice/lib/wsrbench-core-0.0.1-jar-with-dependencies.jar!/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2013-06-06 12:31:47,378 INFO  [SchemaUtils] Added default schema from file:/home/andrea/NetBeansProjects/testingservice/lib/wsrbench-core-0.0.1-jar-with-dependencies.jar!/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2013-06-06 12:31:47,404 INFO  [SchemaUtils] Added default schema from file:/home/andrea/NetBeansProjects/testingservice/lib/wsrbench-core-0.0.1-jar-with-dependencies.jar!/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2013-06-06 12:31:47,413 INFO  [SchemaUtils] Added default schema from file:/home/andrea/NetBeansProjects/testingservice/lib/wsrbench-core-0.0.1-jar-with-dependencies.jar!/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2013-06-06 12:31:47,423 INFO  [SchemaUtils] Added default schema from file:/home/andrea/NetBeansProjects/testingservice/lib/wsrbench-core-0.0.1-jar-with-dependencies.jar!/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2013-06-06 12:31:47,437 INFO  [SchemaUtils] Added default schema from file:/home/andrea/NetBeansProjects/testingservice/lib/wsrbench-core-0.0.1-jar-with-dependencies.jar!/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2013-06-06 12:31:49,049 INFO  [HttpClientSupport$Helper] Initializing SSL
+2013-06-06 12:31:50,059 INFO  [SchemaUtils] Loading schema types from [http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?wsdl]
+2013-06-06 12:31:50,062 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?wsdl
+2013-06-06 12:31:50,094 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?xsd=1
+2013-06-06 12:31:50,109 INFO  [SchemaUtils] schema for [http://hello.sandbox.technicals.jseduite.modalis.i3s.unice.fr/] contained [{}] namespaces
+2013-06-06 12:31:50,125 INFO  [SchemaUtils] schema for [] contained [{}] namespaces
+2013-06-06 12:31:50,987 INFO  [WsdlImporter] Finding importer for {http://hello.sandbox.technicals.jseduite.modalis.i3s.unice.fr/}HelloWorldPortBinding
+2013-06-06 12:31:50,991 INFO  [WsdlImporter] Importing binding {http://hello.sandbox.technicals.jseduite.modalis.i3s.unice.fr/}HelloWorldPortBinding
+2013-06-06 12:31:51,053 INFO  [Soap11HttpBindingImporter] importing endpoint http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService
+2013-06-06 12:31:51,115 INFO  [Soap11HttpBindingImporter] importing operation sayHello
+2013-06-06 12:31:51,184 INFO  [Soap11HttpBindingImporter] importing operation sayPersonalizedHello
+2013-06-06 12:31:51,188 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?wsdl
+2013-06-06 12:31:51,219 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?xsd=1
+2013-06-06 12:31:52,472 INFO  [SchemaUtils] Loading schema types from [http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?wsdl]
+2013-06-06 12:31:52,475 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?wsdl
+2013-06-06 12:31:52,506 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?xsd=1
+2013-06-06 12:31:52,523 INFO  [SchemaUtils] schema for [http://hello.sandbox.technicals.jseduite.modalis.i3s.unice.fr/] contained [{}] namespaces
+2013-06-06 12:31:52,540 INFO  [SchemaUtils] schema for [] contained [{}] namespaces
+2013-06-06 12:31:53,016 INFO  [WsdlImporter] Finding importer for {http://hello.sandbox.technicals.jseduite.modalis.i3s.unice.fr/}HelloWorldPortBinding
+2013-06-06 12:31:53,017 INFO  [WsdlImporter] Importing binding {http://hello.sandbox.technicals.jseduite.modalis.i3s.unice.fr/}HelloWorldPortBinding
+2013-06-06 12:31:53,017 INFO  [Soap11HttpBindingImporter] importing endpoint http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService
+2013-06-06 12:31:53,017 INFO  [Soap11HttpBindingImporter] importing operation sayHello
+2013-06-06 12:31:53,018 INFO  [Soap11HttpBindingImporter] importing operation sayPersonalizedHello
+2013-06-06 12:31:53,024 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?wsdl
+2013-06-06 12:31:53,028 INFO  [SchemaUtils] Getting schema http://127.0.0.1:8080/jSeduite/HelloWorld/HelloWorldService?xsd=1

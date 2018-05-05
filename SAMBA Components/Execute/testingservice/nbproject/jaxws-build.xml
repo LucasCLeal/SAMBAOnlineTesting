@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xalan="http://xml.apache.org/xslt" xmlns:webproject2="http://www.netbeans.org/ns/web-project/2" xmlns:jaxws="http://www.netbeans.org/ns/jax-ws/1">
+    <!--
+                ===================
+                JAX-WS WSIMPORT SECTION
+                ===================
+            -->
+    <target name="wsgen-init" depends="init, -do-compile">
+        <mkdir dir="${build.generated.sources.dir}/jax-ws/resources/"/>
+        <mkdir dir="${build.classes.dir}"/>
+        <taskdef name="wsgen" classname="com.sun.tools.ws.ant.WsGen">
+            <classpath path="${java.home}/../lib/tools.jar:${build.classes.dir}:${j2ee.platform.wsgen.classpath}:${javac.classpath}"/>
+        </taskdef>
+    </target>
+    <target name="wsgen-TestingWS" depends="wsgen-init">
+        <wsgen sourcedestdir="${build.generated.sources.dir}/jax-ws" resourcedestdir="${build.generated.sources.dir}/jax-ws/resources/" destdir="${build.generated.sources.dir}/jax-ws" verbose="true" xendorsed="true" keep="true" genwsdl="true" sei="testingService.networkCommunication.TestingWS">
+            <classpath path="${java.home}/../lib/tools.jar:${build.classes.dir}:${j2ee.platform.wsgen.classpath}:${javac.classpath}"/>
+        </wsgen>
+    </target>
+    <target name="wsimport-init" depends="init">
+        <mkdir dir="${build.generated.sources.dir}/jax-ws"/>
+        <taskdef name="wsimport" classname="com.sun.tools.ws.ant.WsImport">
+            <classpath path="${java.home}/../lib/tools.jar:${j2ee.platform.wsimport.classpath}:${javac.classpath}"/>
+        </taskdef>
+        <condition property="conf-dir" value="${conf.dir}/" else="">
+            <isset property="conf.dir"/>
+        </condition>
+    </target>
+    <target name="wsimport-client-BpelWSService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/BpelWSService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/BpelWSService" destdir="${build.generated.dir}/jax-wsCache/BpelWSService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/BpelWSService/wsdl/localhost_8080/BpelEngineWS/BpelWSService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://localhost:8080/BpelEngineWS/BpelWSService?wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/BpelWSService/wsdl/localhost_8080/BpelEngineWS/BpelWSService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/BpelWSService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/BpelWSService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-BpelWSService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/supportfortestingservice/communication"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/BpelWSService"/>
+    </target>
+    <target name="wsimport-client-Controlled" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/Controlled"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/Controlled" destdir="${build.generated.dir}/jax-wsCache/Controlled" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/Controlled/wsdl/localhost_8080/Controlled/Controlled.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://localhost:8080/Controlled/Controlled?wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/Controlled/wsdl/localhost_8080/Controlled/Controlled.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/Controlled"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/Controlled">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-Controlled" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/controlled/ws"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/Controlled"/>
+    </target>
+    <target name="wsimport-client-FlickrWrapperService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/FlickrWrapperService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/FlickrWrapperService" destdir="${build.generated.dir}/jax-wsCache/FlickrWrapperService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/FlickrWrapperService/wsdl/FlickrWrapperService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/FlickrWrapperService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/FlickrWrapperService/wsdl/FlickrWrapperService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/FlickrWrapperService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/FlickrWrapperService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-FlickrWrapperService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/technical/image/flickr"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/FlickrWrapperService"/>
+    </target>
+    <target name="wsimport-client-PartnerKeysService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/PartnerKeysService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/PartnerKeysService" destdir="${build.generated.dir}/jax-wsCache/PartnerKeysService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/PartnerKeysService/wsdl/PartnerKeysService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PartnerKeysService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/PartnerKeysService/wsdl/PartnerKeysService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/PartnerKeysService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/PartnerKeysService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-PartnerKeysService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/technical/registry/partners"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/PartnerKeysService"/>
+    </target>
+    <target name="wsimport-client-PicasaWrapperService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/PicasaWrapperService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/PicasaWrapperService" destdir="${build.generated.dir}/jax-wsCache/PicasaWrapperService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/PicasaWrapperService/wsdl/PicasaWrapperService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PicasaWrapperService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/PicasaWrapperService/wsdl/PicasaWrapperService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/PicasaWrapperService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/PicasaWrapperService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-PicasaWrapperService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/technical/image/picasa"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/PicasaWrapperService"/>
+    </target>
+    <target name="wsimport-client-PictureSetService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/PictureSetService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/PictureSetService" destdir="${build.generated.dir}/jax-wsCache/PictureSetService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/PictureSetService/wsdl/PictureSetService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PictureSetService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/PictureSetService/wsdl/PictureSetService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/PictureSetService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/PictureSetService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-PictureSetService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/technical/image/helper"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/PictureSetService"/>
+    </target>
+    <target name="wsimport-client-HyperMachinService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/HyperMachinService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/HyperMachinService" destdir="${build.generated.dir}/jax-wsCache/HyperMachinService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/HyperMachinService/wsdl/HyperMachinService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperMachinService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/HyperMachinService/wsdl/HyperMachinService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/HyperMachinService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/HyperMachinService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-HyperMachinService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/ws/technical/hypermachin"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/HyperMachinService"/>
+    </target>
+    <target name="wsimport-client-HyperPromoManagerService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/HyperPromoManagerService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/HyperPromoManagerService" destdir="${build.generated.dir}/jax-wsCache/HyperPromoManagerService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/HyperPromoManagerService/wsdl/HyperPromoManagerService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperPromoManagerService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/HyperPromoManagerService/wsdl/HyperPromoManagerService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/HyperPromoManagerService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/HyperPromoManagerService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-HyperPromoManagerService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/ws/technical/hypermachin"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/HyperPromoManagerService"/>
+    </target>
+    <target name="wsimport-client-FeedRegistryService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/FeedRegistryService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/FeedRegistryService" destdir="${build.generated.dir}/jax-wsCache/FeedRegistryService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/FeedRegistryService/wsdl/FeedRegistryService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/FeedReader/FeedReader-FeedReader/sun-bpel-engine/Partners/FeedRegistryService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/FeedRegistryService/wsdl/FeedRegistryService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/FeedRegistryService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/FeedRegistryService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-FeedRegistryService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/technical/registry"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/FeedRegistryService"/>
+    </target>
+    <target name="wsimport-client-RssReaderService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/RssReaderService"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/RssReaderService" destdir="${build.generated.dir}/jax-wsCache/RssReaderService" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/RssReaderService/wsdl/RssReaderService.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/FeedReader/FeedReader-FeedReader/sun-bpel-engine/Partners/RssReaderService.wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/RssReaderService/wsdl/RssReaderService.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/RssReaderService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/RssReaderService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-RssReaderService" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/fr/unice/i3s/modalis/jseduite/technical/feeds"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/RssReaderService"/>
+    </target>
+    <target name="wsimport-client-MBTestCaseGen" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/MBTestCaseGen"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/MBTestCaseGen" destdir="${build.generated.dir}/jax-wsCache/MBTestCaseGen" wsdl="${basedir}/${conf-dir}xml-resources/web-service-references/MBTestCaseGen/wsdl/192.168.56.1_8080/MBTestCaseGen/MBTestCaseGen.wsdl" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://192.168.56.1:8080/MBTestCaseGen/MBTestCaseGen?wsdl" xnocompile="true">
+            <depends file="${basedir}/${conf-dir}xml-resources/web-service-references/MBTestCaseGen/wsdl/192.168.56.1_8080/MBTestCaseGen/MBTestCaseGen.wsdl"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/MBTestCaseGen"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/MBTestCaseGen">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-MBTestCaseGen" depends="-init-project">
+        <delete dir="${build.generated.sources.dir}/jax-ws/com/unicamp/lucas/testcasegen"/>
+        <delete dir="${build.generated.dir}/jax-wsCache/MBTestCaseGen"/>
+    </target>
+    <target name="wsimport-client-generate" depends="wsimport-client-BpelWSService, wsimport-client-Controlled, wsimport-client-FlickrWrapperService, wsimport-client-PartnerKeysService, wsimport-client-PicasaWrapperService, wsimport-client-PictureSetService, wsimport-client-HyperMachinService, wsimport-client-HyperPromoManagerService, wsimport-client-FeedRegistryService, wsimport-client-RssReaderService, wsimport-client-MBTestCaseGen"/>
+</project>

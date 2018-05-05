@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/BpelEngineWS/BpelWSService?wsdl" uri="src/conf/xml-resources/web-service-references/BpelWSService/wsdl/localhost_8080/BpelEngineWS/BpelWSService.wsdl"/>
+    <system systemId="http://localhost:8080/BpelEngineWS/BpelWSService?xsd=1" uri="src/conf/xml-resources/web-service-references/BpelWSService/wsdl/localhost_8080/BpelEngineWS/BpelWSService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Controlled/Controlled?wsdl" uri="src/conf/xml-resources/web-service-references/Controlled/wsdl/localhost_8080/Controlled/Controlled.wsdl"/>
+    <system systemId="http://localhost:8080/Controlled/Controlled?xsd=1" uri="src/conf/xml-resources/web-service-references/Controlled/wsdl/localhost_8080/Controlled/Controlled.xsd_1.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PartnerKeysServiceWrapper.wsdl" uri="src/conf/xml-resources/web-service-references/PartnerKeysServiceWrapper/wsdl/PartnerKeysServiceWrapper.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/FlickrWrapperService.wsdl" uri="src/conf/xml-resources/web-service-references/FlickrWrapperService/wsdl/FlickrWrapperService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/FlickrWrapperService.xsd" uri="src/conf/xml-resources/web-service-references/FlickrWrapperService/wsdl/FlickrWrapperService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PicasaWrapperService.wsdl" uri="src/conf/xml-resources/web-service-references/PicasaWrapperService/wsdl/PicasaWrapperService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PicasaWrapperService.xsd" uri="src/conf/xml-resources/web-service-references/PicasaWrapperService/wsdl/PicasaWrapperService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PictureSetService.wsdl" uri="src/conf/xml-resources/web-service-references/PictureSetService/wsdl/PictureSetService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PictureSetService.xsd" uri="src/conf/xml-resources/web-service-references/PictureSetService/wsdl/PictureSetService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PartnerKeysService.wsdl" uri="src/conf/xml-resources/web-service-references/PartnerKeysService/wsdl/PartnerKeysService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-ImageScraper/sun-bpel-engine/Partners/PartnerKeysService.xsd" uri="src/conf/xml-resources/web-service-references/PartnerKeysService/wsdl/PartnerKeysService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/FlickrWrapperService.wsdl" uri="src/conf/xml-resources/web-service-references/FlickrWrapperService/wsdl/FlickrWrapperService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/FlickrWrapperService.xsd" uri="src/conf/xml-resources/web-service-references/FlickrWrapperService/wsdl/FlickrWrapperService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PartnerKeysService.wsdl" uri="src/conf/xml-resources/web-service-references/PartnerKeysService/wsdl/PartnerKeysService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PartnerKeysService.xsd" uri="src/conf/xml-resources/web-service-references/PartnerKeysService/wsdl/PartnerKeysService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PicasaWrapperService.wsdl" uri="src/conf/xml-resources/web-service-references/PicasaWrapperService/wsdl/PicasaWrapperService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PicasaWrapperService.xsd" uri="src/conf/xml-resources/web-service-references/PicasaWrapperService/wsdl/PicasaWrapperService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PictureSetService.wsdl" uri="src/conf/xml-resources/web-service-references/PictureSetService/wsdl/PictureSetService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/ImageScraper/ImageScraper-sun-http-binding/sun-http-binding/ImageScraper/Partners/PictureSetService.xsd" uri="src/conf/xml-resources/web-service-references/PictureSetService/wsdl/PictureSetService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperMachinServiceWrapper.wsdl" uri="src/conf/xml-resources/web-service-references/HyperMachinServiceWrapper/wsdl/HyperMachinServiceWrapper.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperMachinService.wsdl" uri="src/conf/xml-resources/web-service-references/HyperMachinService/wsdl/HyperMachinService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperPromoManagerService.wsdl" uri="src/conf/xml-resources/web-service-references/HyperPromoManagerService/wsdl/HyperPromoManagerService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperPromoManagerService.xsd" uri="src/conf/xml-resources/web-service-references/HyperPromoManagerService/wsdl/HyperPromoManagerService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/HyperTimeTable/HyperTimeTable-HyperTimeTable/sun-bpel-engine/Partners/HyperMachinService.xsd" uri="src/conf/xml-resources/web-service-references/HyperPromoManagerService/Partners/HyperMachinService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/FeedReader/FeedReader-FeedReader/sun-bpel-engine/Partners/FeedRegistryService.wsdl" uri="src/conf/xml-resources/web-service-references/FeedRegistryService/wsdl/FeedRegistryService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/FeedReader/FeedReader-FeedReader/sun-bpel-engine/Partners/FeedRegistryService.xsd" uri="src/conf/xml-resources/web-service-references/FeedRegistryService/wsdl/FeedRegistryService.xsd"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/FeedReader/FeedReader-FeedReader/sun-bpel-engine/Partners/RssReaderService.wsdl" uri="src/conf/xml-resources/web-service-references/RssReaderService/wsdl/RssReaderService.wsdl"/>
+    <system systemId="file:/home/andrea/SUNWappserver/domains/domain1/jbi/service-assemblies/FeedReader/FeedReader-FeedReader/sun-bpel-engine/Partners/RssReaderService.xsd" uri="src/conf/xml-resources/web-service-references/RssReaderService/wsdl/RssReaderService.xsd"/>
+    <system systemId="http://192.168.56.1:8080/MBTestCaseGen/MBTestCaseGen?wsdl" uri="src/conf/xml-resources/web-service-references/MBTestCaseGen/wsdl/192.168.56.1_8080/MBTestCaseGen/MBTestCaseGen.wsdl"/>
+    <system systemId="http://192.168.56.1:8080/MBTestCaseGen/MBTestCaseGen?xsd=1" uri="src/conf/xml-resources/web-service-references/MBTestCaseGen/wsdl/192.168.56.1_8080/MBTestCaseGen/MBTestCaseGen.xsd_1.xsd"/>
+</catalog>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

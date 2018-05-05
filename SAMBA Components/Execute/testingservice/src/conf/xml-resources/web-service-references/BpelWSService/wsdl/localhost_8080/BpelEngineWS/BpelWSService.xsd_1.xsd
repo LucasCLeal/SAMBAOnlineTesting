@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.1.3.3-hudson-757-SNAPSHOT. --><xs:schema xmlns:tns="http://communication.supportForTestingService/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://communication.supportForTestingService/">
+
+<xs:element name="getAWsdlFiles" type="tns:getAWsdlFiles"></xs:element>
+
+<xs:element name="getAWsdlFilesResponse" type="tns:getAWsdlFilesResponse"></xs:element>
+
+<xs:element name="getBpelFile" type="tns:getBpelFile"></xs:element>
+
+<xs:element name="getBpelFileNumber" type="tns:getBpelFileNumber"></xs:element>
+
+<xs:element name="getBpelFileNumberResponse" type="tns:getBpelFileNumberResponse"></xs:element>
+
+<xs:element name="getBpelFileResponse" type="tns:getBpelFileResponse"></xs:element>
+
+<xs:element name="getSoaStatus" type="tns:getSoaStatus"></xs:element>
+
+<xs:element name="getSoaStatusResponse" type="tns:getSoaStatusResponse"></xs:element>
+
+<xs:element name="setSoaStatus" type="tns:setSoaStatus"></xs:element>
+
+<xs:element name="setSoaStatusResponse" type="tns:setSoaStatusResponse"></xs:element>
+
+<xs:element name="startTestingService" type="tns:startTestingService"></xs:element>
+
+<xs:element name="startTestingServiceResponse" type="tns:startTestingServiceResponse"></xs:element>
+
+<xs:element name="startVirtualCopy" type="tns:startVirtualCopy"></xs:element>
+
+<xs:element name="startVirtualCopyResponse" type="tns:startVirtualCopyResponse"></xs:element>
+
+<xs:element name="stopVirtualCopy" type="tns:stopVirtualCopy"></xs:element>
+
+<xs:element name="stopVirtualCopyResponse" type="tns:stopVirtualCopyResponse"></xs:element>
+
+<xs:complexType name="getBpelFileNumber">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getBpelFileNumberResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:int"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startTestingService">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startTestingServiceResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getBpelFile">
+<xs:sequence>
+<xs:element name="requiredFileNumber" type="xs:int"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getBpelFileResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startVirtualCopy">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startVirtualCopyResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="stopVirtualCopy">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="stopVirtualCopyResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAWsdlFiles">
+<xs:sequence>
+<xs:element name="wsdlFileName" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getAWsdlFilesResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSoaStatus">
+<xs:sequence></xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getSoaStatusResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:int"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="setSoaStatus">
+<xs:sequence>
+<xs:element name="soaStatus" type="xs:int"></xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="setSoaStatusResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:int"></xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
