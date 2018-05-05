@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Single Model Generation</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/single.js"></script>
+    </head>
+    <body>
+        <a href="http://localhost:8080/ModelGen/">Home</a>
+        <h2>Single Model Generation</h2>
+        <div>Seleciona Arquivo BPEL no diretório de origem e salva o modelo gerado no diretório destino</div>
+        <div>
+            <p><b>Diretório origem: </b> <a id="test1"></a></p>
+            <p><b>Diretório destino:</b> <a id="test2"></a></p> 
+            <select id="BPELList"></select>
+            <button type="button">Start model generation</button>
+        </div>
+
+
+        <div>
+            <textarea id="txtArea" rows="40" cols="60">
+                Aqui é pra ter o resultado do processo de geração
+            </textarea>
+        </div>     
+    </body>
+</html>

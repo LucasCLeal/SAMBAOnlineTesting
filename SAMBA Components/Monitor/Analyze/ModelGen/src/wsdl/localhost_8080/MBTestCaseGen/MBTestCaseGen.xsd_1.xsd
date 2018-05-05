@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI (http://jax-ws.java.net). RI's version is Metro/2.3.2-b608 (trunk-7979; 2015-01-21T12:50:19+0000) JAXWS-RI/2.2.11-b150120.1832 JAXWS-API/2.2.12 JAXB-RI/2.2.12-b141219.1637 JAXB-API/2.2.13-b141020.1521 svn-revision#unknown. --><xs:schema xmlns:tns="http://testCaseGen.lucas.unicamp.com/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://testCaseGen.lucas.unicamp.com/">
+
+<xs:element name="ExecuteTest" type="tns:ExecuteTest"/>
+
+<xs:element name="ExecuteTestResponse" type="tns:ExecuteTestResponse"/>
+
+<xs:element name="IOException" type="tns:IOException"/>
+
+<xs:element name="abortTestCaseGen" type="tns:abortTestCaseGen"/>
+
+<xs:element name="abortTestCaseGenResponse" type="tns:abortTestCaseGenResponse"/>
+
+<xs:element name="addExeResulttoTestReport" type="tns:addExeResulttoTestReport"/>
+
+<xs:element name="addExeResulttoTestReportResponse" type="tns:addExeResulttoTestReportResponse"/>
+
+<xs:element name="executeAllTests" type="tns:executeAllTests"/>
+
+<xs:element name="executeAllTestsResponse" type="tns:executeAllTestsResponse"/>
+
+<xs:element name="finishtestCaseGeneration" type="tns:finishtestCaseGeneration"/>
+
+<xs:element name="finishtestCaseGenerationResponse" type="tns:finishtestCaseGenerationResponse"/>
+
+<xs:element name="getNextStepForBpelModelNamed" type="tns:getNextStepForBpelModelNamed"/>
+
+<xs:element name="getNextStepForBpelModelNamedResponse" type="tns:getNextStepForBpelModelNamedResponse"/>
+
+<xs:element name="startTestCaseGenForBpelModelNamed" type="tns:startTestCaseGenForBpelModelNamed"/>
+
+<xs:element name="startTestCaseGenForBpelModelNamedResponse" type="tns:startTestCaseGenForBpelModelNamedResponse"/>
+
+<xs:complexType name="finishtestCaseGeneration">
+<xs:sequence>
+<xs:element name="testeExeData" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="finishtestCaseGenerationResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="IOException">
+<xs:sequence>
+<xs:element name="message" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="abortTestCaseGen">
+<xs:sequence>
+<xs:element name="testeExeData" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="abortTestCaseGenResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="executeAllTests">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="executeAllTestsResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="addExeResulttoTestReport">
+<xs:sequence>
+<xs:element name="test" type="xs:string" minOccurs="0"/>
+<xs:element name="result" type="xs:boolean"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="addExeResulttoTestReportResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="ExecuteTest">
+<xs:sequence>
+<xs:element name="orchestrationFileName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="ExecuteTestResponse">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="startTestCaseGenForBpelModelNamed">
+<xs:sequence>
+<xs:element name="fileName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="startTestCaseGenForBpelModelNamedResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:boolean"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getNextStepForBpelModelNamed">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="getNextStepForBpelModelNamedResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
