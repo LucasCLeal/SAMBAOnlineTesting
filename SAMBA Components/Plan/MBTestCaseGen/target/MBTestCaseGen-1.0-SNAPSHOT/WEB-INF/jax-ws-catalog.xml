@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/home/sats/SUNWappserver/domains/domain1/generated/xml/j2ee-modules/testingservice/WEB-INF/wsdl/TestingWSService.wsdl" uri="wsdl/TestingWSService.wsdl"/>
+    <system systemId="http://sats-VirtualBox:9090/testingservice/TestingWSService/__container$publishing$subctx/TestingWSService_schema1.xsd" uri="wsdl/sats-VirtualBox_9090/testingservice/TestingWSService/__container_publishing_subctx/TestingWSService_schema1.xsd.xml"/>
+    <system systemId="http://localhost:9090/testingservice/TestingWSService?WSDL" uri="wsdl/localhost_9090/testingservice/TestingWSService.wsdl"/>
+    <system systemId="http://localhost:9090/testingservice/TestingWSService?xsd=1" uri="wsdl/localhost_9090/testingservice/TestingWSService.xsd_1.xsd"/>
+    <system systemId="http://192.168.56.101:8080/testingservice/TestingWSService?WSDL" uri="wsdl/192.168.56.101_8080/testingservice/TestingWSService.wsdl"/>
+    <system systemId="http://192.168.56.101:8080/testingservice/TestingWSService?wsdl" uri="wsdl/192.168.56.101_8080/testingservice/TestingWSService.wsdl"/>
+    <system systemId="http://192.168.56.101:8080/testingservice/TestingWSService?xsd=1" uri="wsdl/192.168.56.101_8080/testingservice/TestingWSService.xsd_1.xsd"/>
+    <system systemId="http://192.168.56.5:8080/testingservice/TestingWSService?wsdl" uri="wsdl/192.168.56.5_8080/testingservice/TestingWSService.wsdl"/>
+    <system systemId="http://192.168.56.5:8080/testingservice/TestingWSService?xsd=1" uri="wsdl/192.168.56.5_8080/testingservice/TestingWSService.xsd_1.xsd"/>
+</catalog>

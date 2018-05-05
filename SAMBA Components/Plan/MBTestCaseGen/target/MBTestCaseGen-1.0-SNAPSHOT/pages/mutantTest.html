@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Test Service with mutant models</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/mutantTest.js"></script>
+    </head>
+    <body>
+        <a href="op.html">Back</a>
+        <h1>Tests Service with mutant models</h1>
+        <h3>Test configuration</h3>
+        
+        <div>
+            <span>Number of test repetitions/model</span>
+            <input type="number" id="testRep" value="1">    
+        </div>    
+        <div>
+            <span>Target Service</span>
+            <select id="dirlist"></select>
+        </div>
+        
+        <h3>Test Run</h3>
+        <button type="button">Start test generation</button>
+        <div>
+            <textarea id="txtArea" rows="30" cols="60">
+                Test Result!! here
+            </textarea>
+        </div>     
+    </body>
+</html>
