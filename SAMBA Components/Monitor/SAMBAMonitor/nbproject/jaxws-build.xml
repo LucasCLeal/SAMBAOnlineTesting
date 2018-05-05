@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xalan="http://xml.apache.org/xslt" xmlns:j2seproject3="http://www.netbeans.org/ns/j2se-project/3" xmlns:jaxws="http://www.netbeans.org/ns/jax-ws/1">
+    <!--
+                ===================
+                JAX-WS WSIMPORT SECTION
+                ===================
+            -->
+    <target name="wsimport-init" depends="init">
+        <mkdir dir="${build.generated.sources.dir}/jax-ws"/>
+        <taskdef name="wsimport" classname="com.sun.tools.ws.ant.WsImport">
+            <classpath path="${libs.jaxws21.classpath}"/>
+        </taskdef>
+    </target>
+    <target name="wsimport-client-TestingWSService" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/TestingWSService"/>
+        <property name="wsdl-TestingWSService" location="xml-resources/web-service-references/TestingWSService/wsdl/localhost_8080/testingservice/TestingWSService.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/TestingWSService" destdir="${build.generated.dir}/jax-wsCache/TestingWSService" wsdl="${wsdl-TestingWSService}" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://localhost:8080/testingservice/TestingWSService?wsdl" xnocompile="true">
+            <depends file="${wsdl-TestingWSService}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/TestingWSService"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/TestingWSService">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-TestingWSService" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/TestingWSService"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/testingservice/networkcommunication"/>
+    </target>
+    <target name="wsimport-client-ModelUpdater" depends="wsimport-init">
+        <mkdir dir="${build.generated.dir}/jax-wsCache/ModelUpdater"/>
+        <property name="wsdl-ModelUpdater" location="xml-resources/web-service-references/ModelUpdater/wsdl/192.168.56.1_8080/ModelGen/ModelUpdater.wsdl"/>
+        <wsimport sourcedestdir="${build.generated.dir}/jax-wsCache/ModelUpdater" destdir="${build.generated.dir}/jax-wsCache/ModelUpdater" wsdl="${wsdl-ModelUpdater}" catalog="catalog.xml" extension="true" verbose="true" wsdlLocation="http://192.168.56.1:8080/ModelGen/ModelUpdater?wsdl" xnocompile="true">
+            <depends file="${wsdl-ModelUpdater}"/>
+            <produces dir="${build.generated.dir}/jax-wsCache/ModelUpdater"/>
+        </wsimport>
+        <copy todir="${build.generated.sources.dir}/jax-ws">
+            <fileset dir="${build.generated.dir}/jax-wsCache/ModelUpdater">
+                <include name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="wsimport-client-clean-ModelUpdater" depends="-init-project">
+        <delete dir="${build.generated.dir}/jax-wsCache/ModelUpdater"/>
+        <delete dir="${build.generated.sources.dir}/jax-ws/com/unicamp/lucas/modelupdater"/>
+    </target>
+    <target name="wsimport-client-generate" depends="wsimport-client-TestingWSService, wsimport-client-ModelUpdater"/>
+</project>

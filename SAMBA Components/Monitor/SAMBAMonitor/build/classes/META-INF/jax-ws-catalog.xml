@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.56.1:8080/ModelGen/ModelUpdater?wsdl" uri="wsdl/192.168.56.1_8080/ModelGen/ModelUpdater.wsdl"/>
+    <system systemId="http://192.168.56.1:8080/ModelGen/ModelUpdater?xsd=1" uri="wsdl/192.168.56.1_8080/ModelGen/ModelUpdater.xsd_1.xsd"/>
+    <system systemId="http://192.168.56.1:8080/MBTestCaseGen/MBTestCaseGen?wsdl" uri="wsdl/192.168.56.1_8080/MBTestCaseGen/MBTestCaseGen.wsdl"/>
+    <system systemId="http://192.168.56.1:8080/MBTestCaseGen/MBTestCaseGen?xsd=1" uri="wsdl/192.168.56.1_8080/MBTestCaseGen/MBTestCaseGen.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/testingservice/TestingWSService?wsdl" uri="wsdl/localhost_8080/testingservice/TestingWSService.wsdl"/>
+    <system systemId="http://localhost:8080/testingservice/TestingWSService?xsd=1" uri="wsdl/localhost_8080/testingservice/TestingWSService.xsd_1.xsd"/>
+</catalog>
+
+
+
